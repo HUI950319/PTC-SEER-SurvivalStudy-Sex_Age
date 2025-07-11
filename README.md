@@ -64,8 +64,7 @@ This repository contains the complete analytical code and processed data for a c
 
 - **Unadjusted Analysis**: Kaplan-Meier and Aalen-Johansen estimators
 - **Direct Standardization**: Outcome regression adjustment
-- **Inverse Probability of Treatment Weighting (IPTW)**: Propensity score weighting
-- **Propensity Score Matching (PSM)**: 1:1 matching with replacement
+
 
 ## Code Structure
 
